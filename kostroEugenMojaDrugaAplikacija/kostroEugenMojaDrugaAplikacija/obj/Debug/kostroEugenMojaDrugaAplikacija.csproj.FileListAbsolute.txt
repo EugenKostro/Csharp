@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\bin\Debug\kostroEugenMojaDrugaAplikacija.exe.config
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\bin\Debug\kostroEugenMojaDrugaAplikacija.exe
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\bin\Debug\kostroEugenMojaDrugaAplikacija.pdb
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\obj\Debug\kostroEugenMojaDrugaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\obj\Debug\kostroEugenMojaDrugaAplikacija.Form1.resources
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\obj\Debug\kostroEugenMojaDrugaAplikacija.Properties.Resources.resources
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\obj\Debug\kostroEugenMojaDrugaAplikacija.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\obj\Debug\kostroEugenMojaDrugaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\obj\Debug\kostroEugenMojaDrugaAplikacija.exe
+C:\Users\3.D\source\repos\kostroEugenMojaDrugaAplikacija\kostroEugenMojaDrugaAplikacija\obj\Debug\kostroEugenMojaDrugaAplikacija.pdb
