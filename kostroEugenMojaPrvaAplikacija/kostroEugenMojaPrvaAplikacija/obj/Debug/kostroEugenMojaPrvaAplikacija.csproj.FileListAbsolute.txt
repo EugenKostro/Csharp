@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\kostroEugenMojaPrvaAplikacija\kostroEugenMojaPrvaAplikacija\obj\Debug\kostroEugenMojaPrvaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenMojaPrvaAplikacija\kostroEugenMojaPrvaAplikacija\obj\Debug\kostroEugenMojaPrvaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenMojaPrvaAplikacija\kostroEugenMojaPrvaAplikacija\bin\Debug\kostroEugenMojaPrvaAplikacija.exe.config
+C:\Users\3.D\source\repos\kostroEugenMojaPrvaAplikacija\kostroEugenMojaPrvaAplikacija\bin\Debug\kostroEugenMojaPrvaAplikacija.exe
+C:\Users\3.D\source\repos\kostroEugenMojaPrvaAplikacija\kostroEugenMojaPrvaAplikacija\bin\Debug\kostroEugenMojaPrvaAplikacija.pdb
+C:\Users\3.D\source\repos\kostroEugenMojaPrvaAplikacija\kostroEugenMojaPrvaAplikacija\obj\Debug\kostroEugenMojaPrvaAplikacija.exe
+C:\Users\3.D\source\repos\kostroEugenMojaPrvaAplikacija\kostroEugenMojaPrvaAplikacija\obj\Debug\kostroEugenMojaPrvaAplikacija.pdb
